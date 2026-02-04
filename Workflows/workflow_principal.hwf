@@ -40,7 +40,7 @@
       <add_time>N</add_time>
       <create_parent_folder>N</create_parent_folder>
       <exec_per_row>N</exec_per_row>
-      <filename>D:\Github\projeto-hop-mysql-metabase\stg_area.hwf</filename>
+      <filename>D:\Github\projeto-hop-mysql-metabase\Workflows\stg_area.hwf</filename>
       <logext/>
       <logfile/>
       <loglevel>Nothing</loglevel>
@@ -66,7 +66,7 @@
       <add_time>N</add_time>
       <create_parent_folder>N</create_parent_folder>
       <exec_per_row>N</exec_per_row>
-      <filename>D:\Github\projeto-hop-mysql-metabase\dimensoes.hwf</filename>
+      <filename>D:\Github\projeto-hop-mysql-metabase\Workflows\dimensoes.hwf</filename>
       <logext/>
       <logfile/>
       <loglevel>Nothing</loglevel>
@@ -92,7 +92,7 @@
       <add_time>N</add_time>
       <create_parent_folder>N</create_parent_folder>
       <exec_per_row>N</exec_per_row>
-      <filename>D:\Github\projeto-hop-mysql-metabase\fato.hwf</filename>
+      <filename>D:\Github\projeto-hop-mysql-metabase\Workflows\fato.hwf</filename>
       <logext/>
       <logfile/>
       <loglevel>Nothing</loglevel>
