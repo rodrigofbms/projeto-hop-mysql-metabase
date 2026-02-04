@@ -47,6 +47,9 @@ The data model was designed to support analytical queries, focusing on:
 ### Dimension Employee:
 <img width="1227" height="416" alt="dimension employee" src="https://github.com/user-attachments/assets/bcfe4456-11da-46d0-b396-b879262a7378" />
 
+### Dimension Calendar:
+<img width="1268" height="358" alt="dimension calendar" src="https://github.com/user-attachments/assets/750bef68-54f9-4e8b-b88c-328ff16c34b0" />
+
 ### Workflow fact:
 <img width="520" height="136" alt="Workflow fato" src="https://github.com/user-attachments/assets/4542029e-d1d7-438a-8da0-a06e5923e9b3" />
 
