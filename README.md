@@ -29,31 +29,28 @@ The data model was designed to support analytical queries, focusing on:
 - Loading data into structured schemas
 - Exposure of data for BI and reporting
 
-### Workflow Staging area:
+### Staging area Workflow:
 <img width="747" height="251" alt="Workflow staging" src="https://github.com/user-attachments/assets/5f197435-bf94-4986-a1d2-4e96b2612e2e" />
 
-### Workflow dimensions:
+### Dimensions Workflow:
 <img width="926" height="128" alt="Workflow dimensions" src="https://github.com/user-attachments/assets/726a615b-0b7e-4421-871c-5b82767ba55a" />
 
-### Dimension Customer:
+### Customer Dimension:
 <img width="730" height="213" alt="dimension customer" src="https://github.com/user-attachments/assets/eac8f41a-c24d-40d6-82fa-3c9ff5c5cc65" />
 
-### Dimension Employee:
+### Employee Dimension:
 <img width="1227" height="416" alt="dimension employee" src="https://github.com/user-attachments/assets/aec53c84-4048-4ad9-9682-d8a2348a17fa" />
 
-### Dimension Service order:
+### Service order Dimension:
 <img width="1288" height="373" alt="dimension service order" src="https://github.com/user-attachments/assets/b91e5cf2-39e1-4918-9820-4fff9907c80b" />
 
-### Dimension Employee:
-<img width="1227" height="416" alt="dimension employee" src="https://github.com/user-attachments/assets/bcfe4456-11da-46d0-b396-b879262a7378" />
-
-### Dimension Calendar:
+### Calendar Dimension:
 <img width="1268" height="358" alt="dimension calendar" src="https://github.com/user-attachments/assets/750bef68-54f9-4e8b-b88c-328ff16c34b0" />
 
-### Workflow fact:
+### Fact Workflow:
 <img width="520" height="136" alt="Workflow fato" src="https://github.com/user-attachments/assets/4542029e-d1d7-438a-8da0-a06e5923e9b3" />
 
-### Dimension Fact sales:
+### Fact sales Dimension:
 <img width="1739" height="334" alt="dimesion fato sales" src="https://github.com/user-attachments/assets/d59f0611-4b0b-4bca-a081-12286f45a2f1" />
 
 ### Main Workflow:
